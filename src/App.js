@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios'; // Ensure axios is installed
+// import axios from 'axios'; // Ensure axios is installed
 import './App.css'; // Import the CSS file for styling
 
 const App = () => {
